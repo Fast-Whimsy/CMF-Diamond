@@ -1,9 +1,19 @@
 cff-version: 1.2.0
-title: "CMF-DIAMOND Tool"
-version: "1.0.1"
+message: "If you use CMF-Diamond in your work, please cite it as below."
+title: "CMF-Diamond: High-Resolution Branch of the Coherence Mirror Framework"
+abstract: >
+  CMF-Diamond is the high-resolution branch of the Coherence Mirror Framework,
+  introducing the four-mirror architecture by adding the Social Mirror to the
+  empirical, conceptual, and axiological domains.
 authors:
-  - family-names: "Thomas"
-    given-names: "Harry Steven"
-date-released: "2026-02-06"
-repository-code: "https://github.com/<your-username>/CMF-Diamond"
-abstract: "A CMF-native evaluator integrating the Coherence Mirror Framework with the Levitt Diamond Model for organizational and socio-technical analysis."
+  - family-names: Harrell
+    given-names: Martha Nanette
+    orcid: "https://orcid.org/0000-0003-0800-5802"
+repository-code: "https://github.com/Fast-Whimsy/CMF-Diamond"
+keywords:
+  - coherence
+  - CMF-Diamond
+  - four-mirror architecture
+  - social mirror
+date-released: 2026-02-15
+license: "MIT"

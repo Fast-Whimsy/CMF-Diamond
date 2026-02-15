@@ -1,23 +1,54 @@
-# CMF-Diamond
-CMF-DIAMOND Tool — A Coherence-Field Evaluator for Organizational and Socio-Technical Systems
-CMF‑DIAMOND Tool
-A Coherence‑Field Evaluator for Organizational and Socio‑Technical Systems
-Version: 1.0.1
-Author: Harry Steven Thomas
+\# CMF‑Diamond  
 
-Overview
-CMF‑DIAMOND is a computational evaluator that integrates the Coherence Mirror Framework (CMF) with the Levitt Diamond Model to create a dynamic, multi‑dimensional tool for analyzing organizational and socio‑technical systems.
+\### High‑Resolution Branch of the Coherence Mirror Framework
 
-This repository contains the canonical JSON specification of the CMF‑DIAMOND Tool, designed for:
 
-organizational diagnostics
 
-socio‑technical system evaluation
+\## Overview
 
-culture‑strategy alignment
+CMF‑Diamond is the high‑resolution branch of the CMF‑Framework.  
 
-change‑management modeling
+It introduces the \*\*four‑mirror architecture\*\*, adding the Social Mirror to the empirical, conceptual, and axiological domains.
 
-AI‑assisted reasoning
 
-CMF‑DIAMOND is an example of an Active Manuscript: a scholarly artifact that is both a conceptual model and an executable cognitive architecture.
+
+This repository is an example of an \*\*Active Manuscript\*\*:  
+
+a scholarly artifact that is both a conceptual model and an executable cognitive architecture.
+
+
+
+\## Lineage
+
+ECM‑Framework (root)  
+
+→ CMF‑Framework (node)  
+
+→ HECM (node)  
+
+→ CMF‑Diamond (branch)  
+
+→ HECM‑Diamond (branch)
+
+
+
+\## Purpose
+
+CMF‑Diamond provides the first substrate‑agnostic coherence evaluator and supports multi‑domain reasoning across all four mirrors.
+
+
+
+\## Repository Metadata
+
+DOI to be added upon publication.  
+
+ORCID: https://orcid.org/0000-0003-0800-5802
+
+
+
+\## License
+
+To be determined.
+
+
+
